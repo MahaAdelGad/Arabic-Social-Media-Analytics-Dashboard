@@ -12,10 +12,10 @@ A 4-page interactive Power BI dashboard analyzing Arabic-language social media p
 
 ## 📊 Dashboard Overview
 
-<img width="1920" height="1080" alt="Screenshot (716)" src="https://github.com/user-attachments/assets/659245e6-5bbf-4ff3-ab85-ed8382bf6222" />
-<img width="1920" height="1080" alt="Screenshot (715)" src="https://github.com/user-attachments/assets/ffd084a7-c806-4eba-a0e7-b7de5f325109" />
-<img width="1920" height="1080" alt="Screenshot (717)" src="https://github.com/user-attachments/assets/18263047-4a36-4cd6-93dc-78996f6bcb06" />
-<img width="1920" height="1080" alt="Screenshot (718)" src="https://github.com/user-attachments/assets/38d66abe-e393-4415-90b4-86c56617d264" />
+<img width="1824" height="825" alt="Screenshot (716)" src="https://github.com/user-attachments/assets/ea85d305-2caa-4d99-8d92-26d1d2c85b99" />
+<img width="1815" height="783" alt="Screenshot (715)" src="https://github.com/user-attachments/assets/86a56a94-95ab-4479-a97d-55b771712eef" />
+<img width="1820" height="826" alt="Screenshot (717)" src="https://github.com/user-attachments/assets/cf0f0db1-aa36-4b6d-a3fb-8d1001141ebb" />
+<img width="1815" height="824" alt="Screenshot (718)" src="https://github.com/user-attachments/assets/8f659339-9503-4940-bf82-7c00c5c8c26f" />
 
 ---
 
